@@ -1,0 +1,5 @@
+customer_id,total_spend
+C001,60800
+C002,27000
+C003,3000
+C004,1200
