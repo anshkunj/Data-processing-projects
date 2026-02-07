@@ -23,7 +23,7 @@ writing clean, readable, and reusable Python code.
 ---
 
 ## Project Structure 
-
+```
 data-processing-python/  
 │  
 ├── README.md                # Main repo overview  
@@ -95,7 +95,7 @@ data-processing-python/
     ├── reviews.csv  
     ├── keywords.csv  
     └── text_cleaning.py    
-
+```
 ### Notes  
 - Each project contains its own README.md for clarity.  
 - PROBLEM.md defines the business use-case clearly.  
