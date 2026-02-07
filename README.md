@@ -22,6 +22,82 @@ writing clean, readable, and reusable Python code.
 
 ---
 
+## Project Structure 
+
+data-processing-projects/
+│
+├── README.md                # Main repo overview
+├── LICENSE                  # License file (MIT)
+├── .gitignore
+│
+├── 01_csv_cleaning/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── raw_data.csv
+│   ├── cleaned_data.csv
+│   └── clean_csv.py
+│
+├── 02_log_processing/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── app.log
+│   ├── log_summary.csv
+│   └── process_logs.py
+│
+├── 03_json_transformation/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── input.json
+│   ├── output.csv
+│   └── transform_json.py
+│
+├── 04_sales_analysis/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── sales_data.csv
+│   ├── sales_summary.csv
+│   └── sales_analysis.py
+│
+├── 05_data_validation/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── input_data.csv
+│   ├── validation_report.csv
+│   └── validate_data.py
+│
+├── 06_excel_automation/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── input_excels/
+│   │   ├── sales_january.xlsx
+│   │   └── sales_february.xlsx
+│   ├── final_report.xlsx
+│   └── excel_automation.py
+│
+├── 07_etl_pipeline/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   └── etl_pipeline.py
+│
+├── 08_stream_processing/
+│   ├── README.md
+│   ├── PROBLEM.md
+│   ├── stream_data.csv
+│   ├── processed_stream.csv
+│   └── stream_processor.py
+│
+└── 09_text_processing/
+    ├── README.md
+    ├── PROBLEM.md
+    ├── reviews.csv
+    ├── keywords.csv
+    └── text_cleaning.py
+
+---
+
 ## 📂 Projects Overview
 
 ### 01. CSV Data Cleaning
