@@ -245,4 +245,4 @@ It motivates me to build more real-world projects 🚀
 ---
 
 ## 🔹 Note
-This repository is regularly updated with new scripts and improvements.
+This repository is regularly updated with new scripts and improvements. 
