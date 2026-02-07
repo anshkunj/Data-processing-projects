@@ -121,7 +121,7 @@ Each project contains:
 
 ---
 
-## 🚀 Author
+## 🚀 Author: anshkunj 
 
 Built with focus on clarity, practicality, and real-world relevance.
 
