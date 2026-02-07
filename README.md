@@ -121,7 +121,7 @@ Each project contains:
 
 ---
 
-## 🚀 Author: anshkunj 
+## 🧠 Why This Repository Matters
 
 Built with focus on clarity, practicality, and real-world relevance.
 
@@ -132,3 +132,30 @@ If you're looking for help with:
 - ETL pipelines
 
 This repository reflects those capabilities clearly.
+
+---
+
+## 🤝 Contributing
+Contributors are welcome!  
+• Add new problems and algorithms  
+• Improve explanations  
+• Optimise exists code  
+
+---
+
+## 👤 Author
+**anshkunj**  
+GitHub: https://github.com/anshkunj  
+Fiverr: https://www.fiverr.com/s/xX9mNXB  
+LinkedIn: https://linkedin.com/in/anshkunj 
+
+---
+
+## ⭐ Support
+If you found this project helpful, give it a star ⭐  
+It motivates me to build more real-world APIs 🚀
+
+---
+
+## 🔹 Note
+This repository is regularly updated with new scripts and improvements.
