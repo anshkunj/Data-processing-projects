@@ -1,0 +1,4 @@
+order_id,customer_name,order_date,price,city
+101,Rahul,2024-01-12,1200,Delhi
+102,Amit,2024-01-13,1500,Mumbai
+105,Neha,2024-01-15,1800,Pune
