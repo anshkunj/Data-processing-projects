@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/Python-automation-projects/blob/9b60573ff14263e5b0b5c146c77dcbc50352ab75/file_000000007fbc7207a8b9d05c1abc0616.png" alt="Data Processing Projects" width="1200">
+</p>
+
+<h1 align="center">Data Processing Projects</h1>
+<p align="center">Automate everyday tasks with Python scripts — learn by doing 🚀</p>
+
 # Data Processing Projects (Python)
 
 A curated collection of real-world data processing projects built using Python.
