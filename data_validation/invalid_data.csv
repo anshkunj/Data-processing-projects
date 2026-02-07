@@ -1,0 +1,5 @@
+order_id,customer_name,email,price,order_date,errors
+102,Amit,amit@,1500,2024-01-13,Invalid email
+103,,neha@example.com,2000,2024-01-14,Missing customer_name
+104,Priya,priya@example.com,-500,2024-01-15,Invalid price
+105,Neha,neha@example.com,1800,invalid_date,Invalid order_date
