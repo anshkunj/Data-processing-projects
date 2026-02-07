@@ -24,10 +24,10 @@ writing clean, readable, and reusable Python code.
 
 ## Project Structure 
 ```
-data-processing-python/  
+data-processing-projects/  
 │  
 ├── README.md                # Main repo overview  
-├── LICENSE                  # License file (MIT / Apache etc.)  
+├── LICENSE                  # License file (MIT)  
 ├── .gitignore  
 │  
 ├── 01_csv_cleaning/  
