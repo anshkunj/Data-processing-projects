@@ -1,0 +1,6 @@
+order_id,customer_name,email,price,order_date
+101,Rahul,rahul@example.com,1200,2024-01-12
+102,Amit,amit@,1500,2024-01-13
+103,,neha@example.com,2000,2024-01-14
+104,Priya,priya@example.com,-500,2024-01-15
+105,Neha,neha@example.com,1800,invalid_date
