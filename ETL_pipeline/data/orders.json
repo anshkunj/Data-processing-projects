@@ -1,0 +1,20 @@
+[
+  {
+    "order_id": "O101",
+    "customer_id": "C001",
+    "amount": "₹1200",
+    "order_date": "2024-01-12"
+  },
+  {
+    "order_id": "O102",
+    "customer_id": "C002",
+    "amount": "1500 INR",
+    "order_date": "12/01/2024"
+  },
+  {
+    "order_id": "O103",
+    "customer_id": "C003",
+    "amount": "1800",
+    "order_date": "2024-01-15"
+  }
+]
