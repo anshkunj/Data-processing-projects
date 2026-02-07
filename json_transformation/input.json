@@ -1,0 +1,26 @@
+[
+  {
+    "user": {
+      "id": 1,
+      "name": "Rahul",
+      "email": "rahul@example.com"
+    },
+    "order": {
+      "order_id": "A101",
+      "amount": "₹1,200",
+      "date": "2024-01-12"
+    }
+  },
+  {
+    "user": {
+      "id": 2,
+      "name": "Amit",
+      "email": "amit@example.com"
+    },
+    "order": {
+      "order_id": "A102",
+      "amount": "1500 INR",
+      "date": "12/01/2024"
+    }
+  }
+]
