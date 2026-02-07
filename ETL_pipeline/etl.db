@@ -1,0 +1,4 @@
+order_id,customer_id,amount,order_date,name,email
+O101,C001,1200,2024-01-12,Rahul,rahul@example.com
+O102,C002,1500,2024-01-12,Amit,amit@example.com
+O103,C003,1800,2024-01-15,Neha,neha@example.com
