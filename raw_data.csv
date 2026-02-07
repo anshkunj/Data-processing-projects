@@ -1,0 +1,7 @@
+order_id,customer_name,order_date,price,city
+101,Rahul,12-01-2024,"₹1,200",Delhi
+102,Amit,2024/01/13,"1,500 INR",Mumbai
+103,,13 Jan 2024,"₹2,000",Delhi
+101,Rahul,12-01-2024,"₹1,200",Delhi
+104,Priya,2024-01-15,,Bangalore
+105,Neha,15/01/24,"Rs. 1800",Pune
