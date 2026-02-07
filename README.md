@@ -153,7 +153,7 @@ LinkedIn: https://linkedin.com/in/anshkunj
 
 ## ⭐ Support
 If you found this project helpful, give it a star ⭐  
-It motivates me to build more real-world APIs 🚀
+It motivates me to build more real-world projects 🚀
 
 ---
 
