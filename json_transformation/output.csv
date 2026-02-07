@@ -1,0 +1,3 @@
+user_id,user_name,user_email,order_id,order_amount,order_date
+1,Rahul,rahul@example.com,A101,1200,2024-01-12
+2,Amit,amit@example.com,A102,1500,2024-01-12
