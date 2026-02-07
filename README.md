@@ -217,6 +217,11 @@ This repository reflects those capabilities clearly.
 
 ---
 
+## 📄 Licence
+MIT Licence  
+
+---
+
 ## 🤝 Contributing
 Contributors are welcome!  
 • Add new problems and algorithms  
