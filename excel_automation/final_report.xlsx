@@ -1,0 +1,22 @@
+📤 Output File: final_report.xlsx
+📄 Sheet 1: Merged_Data
+department
+revenue
+date
+Sales
+50000
+2024-01-05
+Sales
+30000
+2024-01-15
+Sales
+40000
+2024-02-10
+Sales
+20000
+2024-02-20
+📄 Sheet 2: Summary
+department
+revenue
+Sales
+140000
