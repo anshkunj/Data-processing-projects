@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary / Output files
+temp/
+output/
+processed/
+cache/
+
+# Excel temporary files
+~$*.xlsx
+
+# Large or regenerated data files
+*.zip
+*.tar
+*.gz
+
+# Secrets
+*.env
+*.key
+*.pem
