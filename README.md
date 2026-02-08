@@ -42,9 +42,9 @@ data-processing-projects/
 │   ├── PROBLEM.md  
 │   ├── raw_data.csv  
 │   ├── cleaned_data.csv  
-│   └── clean_csv.py  
+│   └── process.py  
 │  
-├── log_processing/  
+├── log_file_processing/  
 │   ├── README.md  
 │   ├── PROBLEM.md  
 │   ├── app.log  
@@ -56,7 +56,7 @@ data-processing-projects/
 │   ├── PROBLEM.md  
 │   ├── input.json  
 │   ├── output.csv  
-│   └── transform_json.py  
+│   └── transform.py  
 │  
 ├── customer_analysis/  
 │   ├── README.md  
@@ -71,9 +71,11 @@ data-processing-projects/
 ├── data_validation/  
 │   ├── README.md  
 │   ├── PROBLEM.md  
-│   ├── input_data.csv  
+│   ├── data.csv  
+│   ├── invalid_data.csv
+│   ├── valid_data.csv  
 │   ├── validation_report.csv  
-│   └── validate_data.py  
+│   └── validate.py  
 │  
 ├── excel_automation/  
 │   ├── README.md  
