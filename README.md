@@ -61,9 +61,12 @@ data-processing-projects/
 ├── customer_analysis/  
 │   ├── README.md  
 │   ├── PROBLEM.md  
-│   ├── sales_data.csv  
-│   ├── sales_summary.csv  
-│   └── sales_analysis.py  
+│   ├── analysis.py  
+│   ├── customer_spend.csv  
+│   ├── inactive_customers.csv
+│   ├── monthly_revenue.csv
+│   ├── top_products.csv
+│   └── transactions.csv  
 │  
 ├── data_validation/  
 │   ├── README.md  
