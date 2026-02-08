@@ -47,9 +47,8 @@ data-processing-projects/
 ├── log_file_processing/  
 │   ├── README.md  
 │   ├── PROBLEM.md  
-│   ├── app.log  
-│   ├── log_summary.csv  
-│   └── process_logs.py  
+│   ├── server.log  
+│   └── analyze_logs.py  
 │  
 ├── json_transformation/  
 │   ├── README.md  
