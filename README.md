@@ -84,7 +84,7 @@ data-processing-projects/
 │   │   ├── sales_january.xlsx  
 │   │   └── sales_february.xlsx  
 │   ├── final_report.xlsx  
-│   └── excel_automation.py  
+│   └── automate.py  
 │  
 ├── ETL_pipeline/  
 │   ├── README.md  
@@ -98,9 +98,9 @@ data-processing-projects/
 ├── stream_processing/  
 │   ├── README.md  
 │   ├── PROBLEM.md  
-│   ├── stream_data.csv  
+│   ├── stream_simulator.py  
 │   ├── processed_stream.csv  
-│   └── stream_processor.py  
+│   └── processor.py  
 │  
 └── text_processing/  
     ├── README.md  
