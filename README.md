@@ -74,7 +74,7 @@ data-processing-projects/
 │   ├── data.csv  
 │   ├── invalid_data.csv
 │   ├── valid_data.csv  
-│   ├── validation_report.csv  
+│   ├── validation_report.txt  
 │   └── validate.py  
 │  
 ├── excel_automation/  
@@ -91,8 +91,9 @@ data-processing-projects/
 │   ├── PROBLEM.md  
 │   ├── extract.py  
 │   ├── transform.py  
-│   ├── load.py  
-│   └── etl_pipeline.py  
+│   ├── load.py
+│   ├── main.py  
+│   └── etl.db  
 │  
 ├── stream_processing/  
 │   ├── README.md  
