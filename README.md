@@ -209,6 +209,9 @@ Each project contains:
 ## 📌 How to Use
 
 1. Clone the repository
+```
+git clone https://github.com/anshkunj/Data-processing-projects.git
+```
 2. Navigate to any project folder
 3. Read `PROBLEM.md` or `README.md`
 4. Run the Python scripts to reproduce results
