@@ -247,9 +247,16 @@ Contributors are welcome!
 
 ## 👤 Author
 **anshkunj**  
-GitHub: https://github.com/anshkunj  
-Fiverr: https://www.fiverr.com/s/xX9mNXB  
-LinkedIn: https://linkedin.com/in/anshkunj 
+### 📫 Let’s connect
+- **GitHub:** https://github.com/anshkunj
+- **LinkedIn:** https://linkedin.com/in/anshkunj
+- **LeetCode:** https://leetcode.com/u/anshkunj
+- **Devpost:** https://devpost.com/anshkunj
+- **HackerRank:** https://www.hackerrank.com/profile/anshkunj
+- **AtCoder:** https://atcoder.jp/users/anshkunj
+- **Codeforces:** https://codeforces.com/profile/anshkunj
+- **Fiverr:** https://www.fiverr.com/anshkunj
+- **Freelancer:** https://www.freelancer.com/u/anshkunj
 
 ---
 
